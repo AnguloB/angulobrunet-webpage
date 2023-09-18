@@ -58,10 +58,12 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
-          tag: '*'
         - name: Screens
           tag: Screens
+        - name: LaCaixa Foundation
+          tag: LaCaixa
+        - name: epi4health
+          tag: epi4health
         - name: Personal projects
           tag: Personal projects
     design:
