@@ -7,7 +7,8 @@ summary: ''
 authors:
 - María T. Soto-Sanfiel
 - Isabel Villegas-Simón
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
+
 tags: []
 categories: []
 date: '2016-01-01'

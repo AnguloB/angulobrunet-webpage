@@ -8,7 +8,7 @@ summary: ''
 authors:
 - María T. Soto-Sanfiel
 - Isabel Villegas-Simón
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags:
 - Adolescents
 - Cinema

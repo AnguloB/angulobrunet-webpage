@@ -5,7 +5,7 @@ title: Homofobia y recepción de personajes lésbico en la ficción televisiva
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Isabel Villegas-Simón
 tags: []
 categories: []

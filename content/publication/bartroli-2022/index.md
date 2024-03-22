@@ -1,13 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Emotional Competence Assessment Questionnaire (ECAQ) for Children Aged
-  from 3 to 5 Years: Validity and Reliability Evidence'
+title: 'The Emotional Competence Assessment Questionnaire (ECAQ) for Children Aged from 3 to 5 Years: Validity and Reliability Evidence'
 subtitle: ''
 summary: ''
 authors:
 - Montse Bartroli
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Marina Bosque-Prous
 - Catrina Clotas
 - Albert Espelt

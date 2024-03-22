@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Regina Muñoz
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Xavier Majó
 - Joan Colom
 tags: []

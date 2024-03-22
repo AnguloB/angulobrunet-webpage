@@ -17,7 +17,7 @@ main:
     url: '#publi'
     weight: 40
   - name: Conferences
-    url: '#conferences'
+    url: '#confer'
     weight: 50
   - name: Contact
     url: '#contact'

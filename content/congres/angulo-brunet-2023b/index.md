@@ -5,7 +5,7 @@ title: 'We Need You! (Re)Defining Tools to Assess Transphobia in Adolescents'
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-brunet
+- Ariadna Angulo—Brunet
 
 tags: []
 categories: []

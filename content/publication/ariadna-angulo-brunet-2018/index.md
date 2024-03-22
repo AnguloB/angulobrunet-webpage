@@ -5,7 +5,7 @@ title: El presente es cuántico
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags: []
 categories: []
 date: '2018-01-01'

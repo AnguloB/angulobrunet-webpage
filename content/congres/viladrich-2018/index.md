@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Carme Viladrich
-- Ariadna Angulo-Brunet
-- J Cruz
+- Ariadna Angulo—Brunet
+- Jaume Cruz
 tags: []
 categories: []
 date: '2018-01-01'

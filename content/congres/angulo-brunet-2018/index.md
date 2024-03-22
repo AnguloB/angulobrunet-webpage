@@ -6,7 +6,7 @@ title: How to handle ordered responses with floor and ceiling effects in SEM usi
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 tags: []
 categories: []

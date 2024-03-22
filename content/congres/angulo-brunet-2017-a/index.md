@@ -6,7 +6,7 @@ title: 'SubscaleExplorer: Un paquete de R para la gestión y descripción de sub
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - C Viladrich
 tags: []
 categories: []

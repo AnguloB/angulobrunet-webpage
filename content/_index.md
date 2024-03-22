@@ -50,20 +50,18 @@ sections:
       filters:
         folders:
           - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+
       default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
+
       buttons:
         - name: Screens
           tag: Screens
         - name: LaCaixa Foundation
           tag: LaCaixa
         - name: epi4health
-          tag: epi4health
+          tag: epi4healthç
+        - name: REVISEapp
+          tag: REVISEapp
         - name: Personal projects
           tag: Personal projects
     design:
@@ -98,12 +96,12 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: conferences
+    id: confer
     content:
-      title: Conferences
+      title: Recent Conferences
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering Conferences](./congres/).
+        Quickly discover relevant content by [filtering publications](./congres/).
         {{% /callout %}}
       filters:
         folders:

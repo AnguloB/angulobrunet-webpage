@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - I Villegas-Simón
-- Ariadna Angulo-brunet
+- Ariadna Angulo—Brunet
 - Kexin Liu
 tags: []
 categories: []

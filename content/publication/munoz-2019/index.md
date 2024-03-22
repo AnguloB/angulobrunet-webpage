@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - R Muñoz
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - X Majó
 - J Colom
 tags: []

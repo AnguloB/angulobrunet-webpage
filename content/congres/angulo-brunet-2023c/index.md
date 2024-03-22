@@ -5,7 +5,7 @@ title: 'How are LGBT+ characters represented on Video-on-Demand platforms?'
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Beatríz González-de-Garay
 - Maria Marcos-Ramos
 

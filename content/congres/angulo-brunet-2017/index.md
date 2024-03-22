@@ -6,7 +6,7 @@ title: How Coaches’ Interpersonal Style Questionnaire (CIS-Q) became Physical 
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - David Sanchez-Oliva
 - Carme Viladrich
 tags: []

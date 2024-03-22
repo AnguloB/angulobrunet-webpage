@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Carme Viladrich
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags: []
 categories: []
 date: '2019-01-01'

@@ -6,7 +6,7 @@ title: 'Single-item measures validity evidence based on correlation network anal
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 - Yago Ramis
 - Susana Pallares

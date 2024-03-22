@@ -11,7 +11,7 @@ authors:
 - Joan Aliaga
 - Albert Espelt
 - Rebeca García-Rueda
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags:
 - 332 students
 - a

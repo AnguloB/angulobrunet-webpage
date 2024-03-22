@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - A Ribera
-- A Angulo
+- Ariadna Angulo—Brunet
 tags: []
 categories: []
 date: '2015-01-01'

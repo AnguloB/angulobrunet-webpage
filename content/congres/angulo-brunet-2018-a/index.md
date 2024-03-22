@@ -6,7 +6,7 @@ title: Validity of single-item measures to assess self-determination theory cons
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 - Susana Pallares
 - Yago Ramis

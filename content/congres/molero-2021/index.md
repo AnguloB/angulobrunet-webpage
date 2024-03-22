@@ -5,11 +5,11 @@ title: Uso ilícito de opiáceos en individuos en tratamiento de mantenimiento c
 subtitle: ''
 summary: ''
 authors:
-- J Molero
-- A Angulo
-- J Perez de los Cobos
-- M Gotsens
-- M. G Barbaglia
+- Javier Molero
+- Ariadna Angulo—Brunet
+- José Perez de los Cobos
+- Merce Gotsens
+- M. Gabriela Barbaglia
 tags: []
 categories: []
 date: '2021-01-01'

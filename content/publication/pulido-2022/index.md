@@ -13,7 +13,7 @@ authors:
 - Gregorio Barrio
 - Maria Jose Belza
 - Lucía Cea-Soriano
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Luis Sordo
 tags: []
 categories: []

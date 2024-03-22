@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Miguel Angel López-Saez
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Lucas R. Platero
 - Vincenzo Bochicchio
 - Oscar Lecuona

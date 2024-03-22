@@ -5,7 +5,7 @@ title: 'Current concerns in using scales to measure attitudes towards LGBTI peop
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Oscar Lecuona
 - López-Saez, Miguel
 

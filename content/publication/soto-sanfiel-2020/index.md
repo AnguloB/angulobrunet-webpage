@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - María-Teresa Soto-Sanfiel
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags:
 - Adolescents
 - Audience responses

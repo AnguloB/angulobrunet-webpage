@@ -14,7 +14,7 @@ authors:
 - Sonia Luque
 - Luisa Sorlí
 - Núria Campillo
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Eduardo Padilla
 - Núria Prim
 - Virginia Pomar

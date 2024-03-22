@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Marta Borrueco
-- Ariadna Angulo-brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 - Susana Pallares
 - Jaume Cruz

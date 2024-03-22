@@ -5,7 +5,7 @@ title: 'Test reviewing as service-learning: from faculty to professional benefic
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Eduardo Doval
 - Eva Penelo
 - Joan Aliaga

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Gerard Soriano
 - Carme Viladrich
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags: []
 categories: []
 date: '2016-01-01'

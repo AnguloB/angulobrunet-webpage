@@ -6,7 +6,7 @@ title: Can multi-item measures and single-item measures be trusted to assess sel
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 - Susana Pallarès
 - Marta Borrueco

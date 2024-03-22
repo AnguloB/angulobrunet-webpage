@@ -5,7 +5,7 @@ title: Understanding appreciation among German, Italian and Spanish teenagers
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - María T. Soto-Sanfiel
 tags:
 - appreciation

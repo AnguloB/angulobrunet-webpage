@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Eduardo Doval
 - Carme Viladrich
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags:
 - Cronbach’s alpha
 - Internal consistency

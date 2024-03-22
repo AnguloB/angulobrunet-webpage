@@ -6,7 +6,7 @@ title: ¿Limitaciones o cambio de objetivos? Lecciones aprendidas comparando dos
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 tags: []
 categories: []

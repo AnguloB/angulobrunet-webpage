@@ -16,7 +16,7 @@ authors:
 - Inmaculada López Montesinos
 - Eduardo Padilla
 - Núria Prim
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Santiago Grau
 - Antonio Oliver
 - Juan P. Horcajada

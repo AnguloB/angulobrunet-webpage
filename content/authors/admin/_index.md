@@ -75,7 +75,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Ariadna Angulo-Brunet is a lecturer at the Universitat Oberta de Catalunya. Her research interests are focused on psychometrics, particularly in the field of audiovisual communication, drug addiction, and measuring attitudes towards LGBTIQ individuals

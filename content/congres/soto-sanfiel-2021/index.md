@@ -5,9 +5,9 @@ title: Appreciating radio made by artists
 subtitle: ''
 summary: ''
 authors:
-- M. T Soto-Sanfiel
+- M. Teresa Soto-Sanfiel
 - C. F Bradley
-- A Angulo-Brunet
+- Ariadna Angulo—Brunet
 tags: []
 categories: []
 date: '2021-01-01'
@@ -33,5 +33,5 @@ publishDate: '2023-07-06T16:09:17.190750Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*IAMCR - Nairobi 2021 notifications@exordo.com*'
+publication: '*IAMCR - Nairobi 2021*'
 ---

@@ -6,9 +6,9 @@ title: Un viaje alrededor de alfa y omega para estimar la fiabilidad de consiten
 subtitle: ''
 summary: ''
 authors:
-- C Viladrich
-- A Angulo-Brunet
-- E Doval
+- Carme Viladrich
+- Ariadna Angulo—Brunet
+- Eduardo Doval
 tags: []
 categories: []
 date: '2017-01-01'

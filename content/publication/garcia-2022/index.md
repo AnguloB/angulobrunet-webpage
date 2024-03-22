@@ -5,12 +5,11 @@ title: Exploring COVID ‑ 19 research credibility among Spanish scientists
 subtitle: ''
 summary: ''
 authors:
-- Eduardo Garcia
-- Garzon Ariadna
-- Angulo Brunet
+- Eduardo Garcia-Garzón
+- Ariadna Angulo—Brunet
 - Oscar Lecuona
-- Juan Ramón
-- Barrada Guido
+- Juan Ramón Barrada
+- Guido Corradi
 tags:
 - COVID-19
 - Inadequate incentives

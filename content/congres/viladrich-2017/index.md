@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Carme Viladrich
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Eduardo Doval
 tags: []
 categories: []

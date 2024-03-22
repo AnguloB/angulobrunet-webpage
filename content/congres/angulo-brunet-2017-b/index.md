@@ -6,7 +6,7 @@ title: Desarrollo de medidas de un ítem para evaluar los resultados de una inte
 subtitle: ''
 summary: ''
 authors:
-- Ariadna Angulo-Brunet
+- Ariadna Angulo—Brunet
 - Carme Viladrich
 - Susana Pallares
 tags:
