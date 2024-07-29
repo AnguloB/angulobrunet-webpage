@@ -83,7 +83,7 @@ sections:
   - block: collection
     id: publi
     content:
-      title: Recent Publications
+      title: Recent Publications and Conferences
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -91,21 +91,6 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: confer
-    content:
-      title: Recent Conferences
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./congres/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - congres
         exclude_featured: true
     design:
       columns: '2'
@@ -143,3 +128,6 @@ sections:
     design:
       columns: '2'
 ---
+
+
+[congres]: ./congres/

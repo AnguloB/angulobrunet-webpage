@@ -33,8 +33,8 @@ tags:
 - to put it mildly
 - trust in science
 categories: []
-date: '2022-01-01'
-lastmod: 2023-07-05T19:44:49+02:00
+date: '2024-01-01'
+lastmod: 2024-07-05T19:44:49+02:00
 featured: false
 draft: false
 

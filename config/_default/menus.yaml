@@ -16,9 +16,6 @@ main:
   - name: Publications
     url: '#publi'
     weight: 40
-  - name: Conferences
-    url: '#confer'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

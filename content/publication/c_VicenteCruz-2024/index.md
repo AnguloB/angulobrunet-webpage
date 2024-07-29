@@ -1,27 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Spanish and Catalan Versions of the eHealth Literacy Questionnaire Translation, Cross-Cultural Adaptation, and Validation Study
+title: 'Explorando concepciones y estereotipos asociados a los gays en la adolescencia en el contexto educativo de Brasil'
 subtitle: ''
 summary: ''
 authors:
--  Eulàlia Hernández
--  Noemí Robles
--  Ariadna Angulo—Brunet
--  David Cullenn
--  Ignacio del Argo
-tags:
-- eHealth literacy
-- eHealth
-- digital health
-- health literacy
-- questionnaire
-- ehealth literacy questionnaire
-- eHLQ
-- Validation
+- Emerson Vicente-Cruz
+- María T. Soto-Sanfiel
+- Ariadna Angulo—Brunet
+
+tags: []
 categories: []
-date: '2024-07-29'
-lastmod: 2024-09-05T19:45:22+02:00
+date: '2024-06-01'
+lastmod: 2024-07-06T18:10:28+02:00
 featured: false
 draft: false
 
@@ -39,13 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T17:45:19.001355Z'
+publishDate: '2023-07-06T16:10:22.630100Z'
 publication_types:
-- '2'
-abstract: 
-publication: 'Journal of Medical Internet Research'
-doi:  10.2196/49227
-links:
-- name: URL
-  url: https://www.jmir.org/2024/1/e49227/
+- '1'
+abstract: ''
+publication: '*VI International Conference on Sexual Diversity Studies in Iberoamerica (CIEDSI)*'
 ---

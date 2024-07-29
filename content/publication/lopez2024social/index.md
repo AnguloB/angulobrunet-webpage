@@ -19,7 +19,7 @@ tags:
 - Estrés de minorías
 - Adolescencia
 categories: []
-date: '2024-01-01'
+date: '2024-07-29'
 lastmod: 2024-07-05T19:46:09+02:00
 featured: false
 draft: false
