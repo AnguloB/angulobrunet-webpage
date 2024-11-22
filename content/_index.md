@@ -54,12 +54,14 @@ sections:
       default_button_index: 0
 
       buttons:
+        - name: MISS
+          tag: miss
         - name: Screens
           tag: Screens
         - name: LaCaixa Foundation
           tag: LaCaixa
         - name: epi4health
-          tag: epi4healthç
+          tag: epi4health
         - name: REVISEapp
           tag: REVISEapp
         - name: Personal projects
