@@ -39,24 +39,7 @@ projects: []
 publishDate: '2023-07-05T17:44:59.934735Z'
 publication_types:
 - '2'
-abstract: 'This study aims to shed light on adolescents’ characterizations of their
-  preferred film entertainment. It seeks to describe the psychological responses of
-  youngsters from two European countries (Italy and Spain) to dramas from the European
-  region about current social/human issues. The study also seeks to determine if the
-  adolescents’ responses differ according to the film and the cultural context (country)
-  to which they belong. For doing so, the research applies an innovative visual research
-  technique in Media Communication: a correlational network analysis. A total of 234
-  Italian and Spanish adolescents watched three European dramas. Later, they completed
-  four questionnaires measuring hedonic (enjoyment), eudaimonic (appreciation) responses
-  and predictors of them (narrative engagement and perceived realism). The results
-  present the visual intercorrelations of the studied variables, which give deeper
-  insights into youngsters’ gratifications in film consumption. These results suggest
-  that films appear to be more influential than country in adolescents’ responses.
-  They also show there are specific models of responses for each film in each situation.
-  The application of the visual quantitative tool broadens our knowledge on adolescents’
-  entertainment through dramatic film and on the role of the cultural context and
-  the audiovisual stimulus in the entertainment responses. It also challenges empirical
-  studies using a single stimulus.'
+abstract: 'This study aims to shed light on adolescents’ characterizations of their preferred film entertainment. It seeks to describe the psychological responses of youngsters from two European countries (Italy and Spain) to dramas from the European region about current social/human issues. The study also seeks to determine if the adolescents’ responses differ according to the film and the cultural context (country) to which they belong. For doing so, the research applies an innovative visual research technique in Media Communication: a correlational network analysis. A total of 234 Italian and Spanish adolescents watched three European dramas. Later, they completed four questionnaires measuring hedonic (enjoyment), eudaimonic (appreciation) response and predictors of them (narrative engagement and perceived realism). The results present the visual intercorrelations of the studied variables, which give deeper insights into youngsters’ gratifications in film consumption. These results suggest that films appear to be more influential than country in adolescents’ responses. They also show there are specific models of responses for each film in each situation. The application of the visual quantitative tool broadens our knowledge on adolescents’ entertainment through dramatic film and on the role of the cultural context and the audiovisual stimulus in the entertainment responses. It also challenges empirical studies using a single stimulus.'
 publication: '*Communication and Society*'
 doi: 10.15581/003.34.1.157-175
 ---

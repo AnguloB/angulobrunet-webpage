@@ -30,19 +30,7 @@ projects: []
 publishDate: '2023-07-05T17:45:56.164103Z'
 publication_types:
 - '0'
-abstract: '“El futuro será cuántico”, eso afirma José Ignacio Latorre en la contraportada
-  de Cuántica: tu futuro en juego, y eso logrará entender el lector que se adentre
-  en esta obra de carácter divulgativo. Aunque la temática es compleja, el autor hace
-  que los postulados de la mecánica cuántica sean un concepto relativamente sencillo
-  para quienes no tienen conocimientos previos sobre la materia y permite valorar
-  las implicaciones que tiene en el presente y en el futuro. Latorre es uno de los
-  físicos españoles más reconocidos en la física cuántica. Su área de investigación
-  se centra en las partículas elementales y en la teoría de la información cuántica.
-  Actualmente está liderando un proyecto para desarrollar un ordenador cuántico, concretamente
-  el procesador del ordenador. Mediante este libro se pone en evidencia la trayectoria
-  de Latorre, quien da cuenta de que es posible divulgar conocimiento científico a
-  cualquier público, referenciando teorías con un trasfondo matemático complejo, y
-  sin necesidad de tener que comprender ni una sola operación aritmética.'
+abstract: '“El futuro será cuántico”, eso afirma José Ignacio Latorre en la contraportada de Cuántica: tu futuro en juego, y eso logrará entender el lector que se adentre en esta obra de carácter divulgativo. Aunque la temática es compleja, el autor hace que los postulados de la mecánica cuántica sean un concepto relativamente sencillo para quienes no tienen conocimientos previos sobre la materia y permite valorar las implicaciones que tiene en el presente y en el futuro. Latorre es uno de los físicos españoles más reconocidos en la física cuántica. Su área de investigación se centra en las partículas elementales y en la teoría de la información cuántica. Actualmente está liderando un proyecto para desarrollar un ordenador cuántico, concretamente el procesador del ordenador. Mediante este libro se pone en evidencia la trayectoria de Latorre, quien da cuenta de que es posible divulgar conocimiento científico a cualquier público, referenciando teorías con un trasfondo matemático complejo, y sin necesidad de tener que comprender ni una sola operación aritmética.'
 publication: '*Communication Papers*'
 links:
 - name: URL

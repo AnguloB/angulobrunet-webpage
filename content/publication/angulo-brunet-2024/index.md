@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Understanding appreciation among German, Italian and Spanish teenagers
+title: Video-on-demand series in education programmes to tackle gay male stereotypes in young people
 subtitle: ''
 summary: ''
 authors:

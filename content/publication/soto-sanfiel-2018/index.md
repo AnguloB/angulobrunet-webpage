@@ -41,17 +41,7 @@ projects: []
 publishDate: '2023-07-05T17:45:45.882166Z'
 publication_types:
 - '2'
-abstract: Within the framework of the Creative Europe programme, and due to the inexplicable
-  lack of current academic information on the topic, this exploratory cross-cultural
-  study seeks to advance the understanding of the relationship between European adolescents
-  and cinema through a sample of 937 secondary students from eight countries of the
-  European Union. Specifically, the research contributes to the identification of
-  young people’s conceptions of the artistic value and functions of cinema, their
-  knowledge of cinematography and their opinions about national, European or foreign
-  cinema. In addition, it explores the extent to which these factors are alike and
-  differ according to nation. The results of this work are relevant for academics
-  from different disciplines, regulators, educators and members of the audiovisual
-  industry.
+abstract: Within the framework of the Creative Europe programme, and due to the inexplicable lack of current academic information on the topic, this exploratory cross-cultural  study seeks to advance the understanding of the relationship between European adolescents and cinema through a sample of 937 secondary students from eight countries of the  European Union. Specifically, the research contributes to the identification of young people’s conceptions of the artistic value and functions of cinema, their knowledge of cinematography and their opinions about national, European or foreign cinema. In addition, it explores the extent to which these factors are alike and differ according to nation. The results of this work are relevant for academics from different disciplines, regulators, educators and members of the audiovisual industry.
 publication: '*International Communication Gazette*'
 doi: 10.1177/1748048518759171
 ---

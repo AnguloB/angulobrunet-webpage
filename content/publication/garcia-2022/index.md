@@ -12,25 +12,9 @@ authors:
 - Guido Corradi
 tags:
 - COVID-19
-- Inadequate incentives
 - Questionable research practices
 - Reproducibility crisis
-- Trust in science
-- coronavirus dis-
-- covid-19
-- ease 19
-- for
-- for example
-- has been
 - inadequate incentives
-- ing
-- over four million entries
-- overwhelm-
-- questionable research practices
-- reproducibility crisis
-- s response to the
-- the scientific community
-- to put it mildly
 - trust in science
 categories: []
 date: '2024-01-01'
@@ -52,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-05T17:44:46.132553Z'
+publishDate: '2024-07-05T17:44:46.132553Z'
 publication_types:
 - '2'
 abstract: ''

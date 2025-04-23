@@ -13,11 +13,11 @@ authors:
 - Ariadna Angulo—Brunet
 
 tags:
-- Medios sociales
-- Redes sociales en línea
-- Bienestar eudaimónico
-- Estrés de minorías
-- Adolescencia
+- social media
+- online social networks
+- eudaimonic well-being
+- minority stress
+- adolescents
 categories: []
 date: '2024-07-29'
 lastmod: 2024-07-05T19:46:09+02:00

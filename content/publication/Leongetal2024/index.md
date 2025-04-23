@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms A Network Analysis.
+title: Associations Between a Transdiagnostic Core Vulnerability and Internalizing Symptoms A Network Analysis
 subtitle: ''
 summary: ''
 authors:

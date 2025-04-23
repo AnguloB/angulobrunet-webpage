@@ -19,10 +19,8 @@ role: Lecturer
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Universitat Oberta de Catalunya
-    url: www.uoc.edu/
-
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are focused on psychometrics in various fields, specifically in audiovisual communication, attitudes towards LGBTI individuals, and artificial intelligence.
+bio: My research interests are focused on psychometrics in various fields, specifically in education,  communication, attitudes towards LGBTI individuals, and artificial intelligence.
 
 # Interests to show in About widget
 interests:
@@ -36,7 +34,7 @@ education:
     - course: PhD in Health and Sport Psychology
       institution: Universitat Autònoma de Barcelona
       year: 2019
-    - course: MS in Methodology of Behavioral and Health Sciences
+    - course: MSc in Methodology of Behavioral and Health Sciences
       institution: UNED, UAM and UCM
       year: 2016
     - course: BSc in Psychology
@@ -59,7 +57,7 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=4suN5doAAAAJ&hl=es
+    link: https://scholar.google.com/citations?user=4suN5doAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/angulob
@@ -67,9 +65,6 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -78,5 +73,5 @@ email: ''
 highlight_name: false
 ---
 
-Ariadna Angulo-Brunet is a lecturer at the Universitat Oberta de Catalunya. Her research interests are focused on psychometrics, particularly in the field of audiovisual communication, drug addiction, and measuring attitudes towards LGBTIQ individuals
+Ariadna Angulo-Brunet is a lecturer at the Universitat Oberta de Catalunya. Her research interests focus on psychometrics, particularly in the fields of education, communication, attitudes towards LGBTI individuals, and artificial intelligence.
 {style="text-align: justify;"}

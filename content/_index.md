@@ -56,12 +56,12 @@ sections:
       buttons:
         - name: MISS
           tag: miss
+        - name: DigitAsia
+          tag: digitasia
         - name: Screens
           tag: Screens
         - name: LaCaixa Foundation
           tag: LaCaixa
-        - name: epi4health
-          tag: epi4health
         - name: REVISEapp
           tag: REVISEapp
         - name: Personal projects

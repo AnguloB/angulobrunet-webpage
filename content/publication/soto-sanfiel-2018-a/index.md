@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Film literacy in secondary schools across Europe: A comparison of five countries’
-  responses to an educational project on cinema'
+title: 'Film literacy in secondary schools across Europe: A comparison of five countries’ responses to an educational project on cinema'
 subtitle: ''
 summary: ''
 authors:
@@ -40,22 +39,7 @@ projects: []
 publishDate: '2023-07-05T17:45:52.636322Z'
 publication_types:
 - '2'
-abstract: We present the results of an exploratory study framed within a large film
-  literacy project carried out simultaneously in five European Union countries (Croatia,
-  France, Germany, Italy, Spain and the United Kingdom). The study looks at students’
-  responses to an educational project on cinema designed to be implemented regionally
-  for five months in high schools to increase film literacy and to favour more positive
-  attitudes towards European cinema. The results show that students’ film preferences
-  remain stable after the programme and vary only slightly. Major changes occur in
-  their knowledge about film production and expression. The aspects that change the
-  least are their conceptions about cinema and their preferences. Moreover, the student
-  attitudes towards national and European cinema are more positive. However, the results
-  also show that the implementation of a film literacy programme at a cross-cultural
-  level can affect different aspects depending on the cultural context (country) in
-  which it occurs. Indeed, they provide data about the specific impact of the programme
-  in each country. The information offered by this study could enhance film literacy
-  programmes, inform theory, and nurture the debates about the common European identity
-  and the particular traits of the diverse cultures of the European Union.
+abstract: We present the results of an exploratory study framed within a large film  literacy project carried out simultaneously in five European Union countries (Croatia,  France, Germany, Italy, Spain and the United Kingdom). The study looks at students’  responses to an educational project on cinema designed to be implemented regionally for five months in high schools to increase film literacy and to favour more positive attitudes towards European cinema. The results show that students’ film preferences remain stable after the programme and vary only slightly. Major changes occur in their knowledge about film production and expression. The aspects that change the least are their conceptions about cinema and their preferences. Moreover, the student attitudes towards national and European cinema are more positive. However, the results also show that the implementation of a film literacy programme at a cross-cultural level can affect different aspects depending on the cultural context (country) in which it occurs. Indeed, they provide data about the specific impact of the programme in each country. The information offered by this study could enhance film literacy programmes, inform theory, and nurture the debates about the common European identity and the particular traits of the diverse cultures of the European Union.
 publication: '*International Journal of Media and Cultural Politics*'
 doi: 10.1386/macp.14.2.187_1
 ---

@@ -9,7 +9,7 @@ authors:
 - Carme Viladrich
 - Ariadna Angulo—Brunet
 tags:
-- Cronbach’s alpha
+- Cronbach alpha
 - Internal consistency
 - Omega
 - Reliability

@@ -39,21 +39,7 @@ projects: []
 publishDate: '2023-07-05T17:46:05.856441Z'
 publication_types:
 - '2'
-abstract: 'Based on recent psychometric developments, this paper presents a conceptual
-  and practical guide for estimating internal consistency reliabil- ity of measures
-  obtained as item sum or mean. The internal consistency re- liability coefficient
-  is presented as a by-product of the measurement model underlying the item responses.
-  A three-step procedure is proposed for its estimation, including descriptive data
-  analysis, test of relevant measure- ment models, and computation of internal consistency
-  coefficient and its confidence interval. Provided formulas include: (a) Cronbach’s
-  alpha and omega coefficients for unidimensional measures with quantitative item
-  re- sponse scales, (b) coefficients ordinal omega, ordinal alpha and nonlinear reliability
-  for unidimensional measures with dichotomic and ordinal items, (c) coefficients
-  omega and omega hierarchical for essentially unidimension- al scales presenting
-  method effects. The procedure is generalized to weighted sum measures, multidimensional
-  scales, complex designs with multilevel and/or missing data and to scale development.
-  Four illustrative numerical examples are fully explained and the data and the R
-  syntax are provided.'
+abstract: 'Based on recent psychometric developments, this paper presents a conceptual and practical guide for estimating internal consistency reliabil- ity of measures obtained as item sum or mean. The internal consistency re- liability coefficient is presented as a by-product of the measurement model underlying the item responses. A three-step procedure is proposed for its estimation, including descriptive data analysis, test of relevant measure- ment models, and computation of internal consistency coefficient and its confidence interval. Provided formulas include: (a) Cronbach’s alpha and omega coefficients for unidimensional measures with quantitative item response scales, (b) coefficients ordinal omega, ordinal alpha and nonlinear reliability for unidimensional measures with dichotomic and ordinal items, (c) coefficients omega and omega hierarchical for essentially unidimension- al scales presenting  method effects. The procedure is generalized to weighted sum measures, multidimensional scales, complex designs with multilevel and/or missing data and to scale development. Four illustrative numerical examples are fully explained and the data and the R syntax are provided.'
 publication: '*Annals of Psychology*'
 doi: 10.6018/analesps.33.3.268401
 links:

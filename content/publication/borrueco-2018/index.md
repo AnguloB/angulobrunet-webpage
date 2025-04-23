@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Relationship between motivational climate , sportspersonship and disposition
-  to cheating in young soccer players
+title: Relationship between motivational climate , sportspersonship and disposition to cheating in young soccer players
 subtitle: ''
 summary: ''
 authors:
@@ -12,6 +11,11 @@ authors:
 - Susana Pallares
 - Jaume Cruz
 tags:
+- motivational climate
+- sportpersonhip
+- gamemanship
+- cheating
+- soccer
 
 categories: []
 date: '2018-01-01'

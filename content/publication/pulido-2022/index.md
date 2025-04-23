@@ -15,7 +15,12 @@ authors:
 - Lucía Cea-Soriano
 - Ariadna Angulo—Brunet
 - Luis Sordo
-tags: []
+tags: 
+- opioid
+- overdose
+- prevalence
+- multiplier method
+- recreational opioid use
 categories: []
 date: '2022-04-01'
 lastmod: 2023-07-05T19:44:53+02:00

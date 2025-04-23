@@ -36,20 +36,8 @@ projects: []
 publishDate: '2023-07-05T17:45:19.001355Z'
 publication_types:
 - '2'
-abstract: One of the psychological responses to audiovisual fictions that has been
-  receiving more attention recently is appreciation, defined as a reflexive eudaimonic
-  gratification obtained from a meaningful entertainment mode. Appreciation is the
-  perception that the media experience has a profound meaning, has taught or revealed
-  something. This study seeks to advance on the understanding of appreciation by youngsters.
-  It translates and adapts the Oliver and Bartsch’s questionnaire for teenagers of
-  three European countries. A total of 213 Italians, 55 Spaniards and 42 Germans watched
-  a drama film and immediately afterwards answered the questionnaire. The results
-  of confirmatory factor analysis suggest the existence of four first-order factors
-  for each country. The multi-group analysis shows the questionnaire is not invariant
-  across groups. Thus, the concept of appreciation in its current formulation is not
-  universal. Instead, it seems to be dependent on the cultural aspects of the audience.
-  This article discusses the implications of such results for the understanding of
-  appreciation and of teenagers’ media responses. It also reports mean comparisons
+abstract: One of the psychological responses to audiovisual fictions that has been receiving more attention recently is appreciation, defined as a reflexive eudaimonic
+  gratification obtained from a meaningful entertainment mode. Appreciation is the  perception that the media experience has a profound meaning, has taught or revealed something. This study seeks to advance on the understanding of appreciation by youngsters. It translates and adapts the Oliver and Bartsch’s questionnaire for teenagers of three European countries. A total of 213 Italians, 55 Spaniards and 42 Germans watched  a drama film and immediately afterwards answered the questionnaire. The results of confirmatory factor analysis suggest the existence of four first-order factorsfor each country. The multi-group analysis shows the questionnaire is not invariant across groups. Thus, the concept of appreciation in its current formulation is not universal. Instead, it seems to be dependent on the cultural aspects of the audience. This article discusses the implications of such results for the understanding of appreciation and of teenagers’ media responses. It also reports mean comparisons
   for the invariant parameters.
 publication: '*Communications*'
 doi: 10.1515/commun-2018-2018

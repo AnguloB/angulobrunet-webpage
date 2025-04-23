@@ -8,7 +8,12 @@ authors:
 - Maria Marcos-Ramos
 - Ariadna Angulo—Brunet
 - Beatríz González-de-Garay
-tags: []
+tags: 
+- immigrant
+- vod
+- characters
+- media
+- representation
 categories: []
 date: '2023-01-01'
 lastmod: 2023-07-05T19:45:52+02:00

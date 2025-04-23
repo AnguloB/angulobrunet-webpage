@@ -13,31 +13,11 @@ authors:
 - Rebeca García-Rueda
 - Ariadna Angulo—Brunet
 tags:
-- 332 students
-- a
-- and b
-- and seven professors participated
-- aprendizaje-servicio
-- calidad de los test
-- evaluación de test
-- every year
-- in this edition and
-- of the universities in
-- present study is two-fold
-- promotes the assessment of
-- psicometría
-- published tests
-- several
-- ten experts
-- the aim of the
-- the eighth review
-- the spanish psychological association
-- the standard
-- the test commission of
-- the test quality of
-- this process
-- to consider the contribution
-- to present results for
+- test review
+- test quality
+- psychometrics
+- service-learning
+
 categories: []
 date: '2021-01-01'
 lastmod: 2023-07-05T19:44:59+02:00

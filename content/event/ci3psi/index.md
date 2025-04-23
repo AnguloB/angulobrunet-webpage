@@ -1,7 +1,7 @@
 ---
-title: Common Language, Shared Challenges The Use of Tests in Spanish for Cross-Cultural Research
+title: Common Language, Shared Challenges The Use of Tests in Spanish for Cross-Cultural Research.
 
-event: Common Language, Shared Challenges The Use of Tests in Spanish for Cross-Cultural Research
+event: Common Language, Shared Challenges The Use of Tests in Spanish for Cross-Cultural Research.
 event_url: https://www.ci3psi.com/
 
 location: online
@@ -18,12 +18,12 @@ This presentation aims to address these challenges by exploring how psychologica
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-24T13:00:00Z'
+date: '2024-05-24T13:01:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:10:00Z'
 
 authors: []
 tags: []
